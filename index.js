@@ -148,3 +148,5 @@ function check(student){
 check(flavio)
 
 ////////// :D 
+
+console.log("Ku je mo");
