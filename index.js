@@ -85,5 +85,5 @@ console.log(isGreat());
 console.log(isGreat());
 console.log(isGreat());
 
-
+console.log("Zoti balliu")
 console.log("Ndryshim qe ka ber Flavio")
