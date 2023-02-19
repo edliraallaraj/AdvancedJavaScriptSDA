@@ -77,3 +77,6 @@ console.log(students[1].cities)
 }
 Isgreat()
 //////////////
+
+console.log("ca bot si kalut");
+console.log("kakami vlores");
