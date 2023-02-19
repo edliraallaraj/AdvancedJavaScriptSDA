@@ -83,3 +83,7 @@ console.log(isGreat());
 console.log("testtt")
 console.log("testtt")
  
+
+
+
+/////// Ndryshimet jane ne kete koment //////////
