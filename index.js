@@ -62,7 +62,7 @@ const students = [
 // Add another city on Flavio's cities
 // Create a function that shows if Aleksander is great, or not
 
-et fourthStudent = students[3];
+let fourthStudent = students[3];
 console.log(`Fourth student is ${fourthStudent.fName} and his knowledge on the second language is ${fourthStudent.languages.javaScript
 }`)
 let secondStudent = students[1];
