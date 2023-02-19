@@ -150,3 +150,6 @@ check(flavio)
 ////////// :D 
 
 console.log("Ku je mo");
+
+
+console.log("Hodha 2 salca")
