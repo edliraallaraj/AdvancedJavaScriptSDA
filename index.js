@@ -71,4 +71,7 @@ console.log(
 
 console.log("Another change");
 
+<<<<<<< HEAD
 console.log("ca bot si kalut");
+=======
+>>>>>>> fbc41843c1936688f399d89dc84cc98de2909e19
