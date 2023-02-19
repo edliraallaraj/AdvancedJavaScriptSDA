@@ -74,3 +74,5 @@ function isGreat(){
     }
 }
 console.log(isGreat());
+
+console.log("testtt")
