@@ -80,3 +80,6 @@ function isGreat(){
     }
 }
 console.log(isGreat());
+
+
+console.log("Ndryshim qe ka ber Flavio")
