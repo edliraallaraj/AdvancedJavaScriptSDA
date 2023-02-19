@@ -62,8 +62,18 @@ const students = [
 // Add another city on Flavio's cities
 // Create a function that shows if Aleksander is great, or not
 
-console.log("testtt");
-
-console.log(
-  `Fourth student is ${students[3].fName} and his knowledge on the second language is ${students[3].languages.javaScript}`
-);
+//// 1st task completed
+students[3].languages[1]
+console.log("The forth student is " + students[3].fName + " and his knowlegde on his second language is " + students[3].languages.javaScript)
+//// 2nd task completed
+students[1].cities.push("Lushnje")
+console.log(students[1].cities)
+//// 3rd task completed
+ Isgreat = () => {
+    if(students[3].isGreat === true){
+        console.log("Aleksander is great")
+    }
+    else console.log("Aleksander is not great")
+}
+Isgreat()
+//////////////
