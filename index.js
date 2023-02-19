@@ -153,3 +153,5 @@ console.log("Ku je mo");
 
 
 console.log("Hodha 2 salca")
+
+console.log("ca bot si kalut");
