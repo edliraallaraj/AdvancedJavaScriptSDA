@@ -67,3 +67,10 @@ console.log("testtt");
 console.log(
   `Fourth student is ${students[3].fName} and his knowledge on the second language is ${students[3].languages.javaScript}`
 );
+
+function isGreat(){
+  if(fourthStudent.isGreat === false){
+      return "Aleksander is not great"
+  }
+}
+console.log(isGreat());
